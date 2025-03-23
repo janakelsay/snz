@@ -1,4 +1,6 @@
-# snz
+# snz </br>
+![SNZ](https://github.com/user-attachments/assets/fc0da578-f9d1-40eb-95fb-6da8b434bd65)
+
 stacker.news weekly zine </br>
 ## Here you will find the zine I'm running weekly for [stacker news](https://github.com/stackernews/stacker.news)
 Includes content from stackers, contests, and art </br>
