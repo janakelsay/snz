@@ -9,3 +9,5 @@ You'll find digital copies to read AND imposed copies to print </br>
 [sn item #927814](https://stacker.news/items/927814)
 [sn item #920037](https://stacker.news/items/920037)
 [sn item #934291](https://stacker.news/items/934291)
+</br>
+[sn item #940652](https://stacker.news/items/940652)
