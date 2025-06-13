@@ -17,5 +17,11 @@ You'll find digital copies to read AND imposed copies to print </br>
 [sn item #969520](https://stacker.news/items/969520)
 [sn item #975608](https://stacker.news/items/975608)
 [sn item #981673](https://stacker.news/items/981673)
+</br>
+[sn item #987747](https://stacker.news/items/987747)
+[sn item #992850](https://stacker.news/items/992850)
+[sn item #998949](https://stacker.news/items/998949)
+</br>
+[sn item #1005583](https://stacker.news/items/1005583)
 ## bio
 I'm [plebpoet](https://stacker.news/plebpoet) and I love [stacker.news](https://stacker.news)
