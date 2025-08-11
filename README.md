@@ -1,7 +1,6 @@
 # snz </br>
-![SNZ](https://github.com/user-attachments/assets/fc0da578-f9d1-40eb-95fb-6da8b434bd65)
+<img width="600" height="200" alt="header" src="https://github.com/user-attachments/assets/31b847e7-1de5-4f7b-a066-bfe8613b7803" />
 
-stacker.news weekly zine </br>
 ## Here you will find the zine I'm running weekly for [stacker news](https://github.com/stackernews/stacker.news)
 Includes content from stackers, contests, and art </br>
 You'll find digital copies to read AND imposed copies to print </br>
@@ -28,5 +27,9 @@ You'll find digital copies to read AND imposed copies to print </br>
 </br>
 [sn item #1022674](https://stacker.news/items/1022674)
 [sn item #1034848](https://stacker.news/items/1034848)
+[sn item #1044917](https://stacker.news/items/1044917)
+</br>
+[sn item #1054334](https://stacker.news/items/1054334)
+[sn item#1072832](https://stacker.news/items/1072832)
 ## bio
 I'm [plebpoet](https://stacker.news/plebpoet) and I love [stacker.news](https://stacker.news)
