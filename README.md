@@ -4,7 +4,7 @@
 ## Here you will find the zine I'm running weekly for [stacker news](https://github.com/stackernews/stacker.news)
 Includes content from stackers, contests, and art </br>
 You'll find digital copies to read AND imposed copies to print </br>
-*Update: I have stopped including imposed copies at issue #9. However, I will add any upon request.*
+*Update: I have stopped including imposed copies up to Issue #22. However, I will add any others upon request.*
 
 ## Announcements
 [sn item #927814](https://stacker.news/items/927814)
