@@ -32,6 +32,26 @@ You'll find digital copies to read AND imposed copies to print </br>
 [sn item #1044917](https://stacker.news/items/1044917)
 </br>
 [sn item #1054334](https://stacker.news/items/1054334)
-[sn item#1072832](https://stacker.news/items/1072832)
+[sn item #1072832](https://stacker.news/items/1072832)
+[sn item #1288156](https://stacker.news/items/1288156)
+</br>
+[sn item #1282852](https://stacker.news/items/1282852)
+[sn item #1276931](https://stacker.news/items/1276931)
+[sn item #1270902](https://stacker.news/items/1270902)
+<br/>
+[sn item #1264575](https://stacker.news/items/1264575)
+[sn item #1258277](https://stacker.news/items/1258277)
+[sn item #1253305](https://stacker.news/items/1253305)
+</br>
+[sn item #1238358](https://stacker.news/items/1238358)
+[sn item #1229071](https://stacker.news/items/1229071)
+[sn item #1219000](https://stacker.news/items/1219000)
+</br>
+[sn item #1208590](https://stacker.news/items/1208590)
+[sn item #1198687](https://stacker.news/items/1198687)
+[sn item #1090089](https://stacker.news/items/1090089)
+</br>
+[sn item #1081745](https://stacker.news/items/1081745)
 ## bio
 I'm [plebpoet](https://stacker.news/plebpoet) and I love [stacker.news](https://stacker.news)
+</br>And [zines are punk rock](https://stacker.news/items/922901)
