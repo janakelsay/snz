@@ -6,52 +6,9 @@ Includes content from stackers, contests, and art </br>
 You'll find digital copies to read AND imposed copies to print </br>
 *Update: I have stopped including imposed copies up to Issue #22. However, I will add any others upon request.*
 
-## Announcements
-[sn item #927814](https://stacker.news/items/927814)
-[sn item #920037](https://stacker.news/items/920037)
-[sn item #934291](https://stacker.news/items/934291)
-</br>
-[sn item #940652](https://stacker.news/items/940652)
-[sn item #951472](https://stacker.news/items/951472)
-[sn item #966433](https://stacker.news/items/966433)
-</br>
-[sn item #969520](https://stacker.news/items/969520)
-[sn item #975608](https://stacker.news/items/975608)
-[sn item #981673](https://stacker.news/items/981673)
-</br>
-[sn item #987747](https://stacker.news/items/987747)
-[sn item #992850](https://stacker.news/items/992850)
-[sn item #998949](https://stacker.news/items/998949)
-</br>
-[sn item #1005583](https://stacker.news/items/1005583)
-[sn item #1011151](https://stacker.news/items/1011151)
-[sn item #1017158](https://stacker.news/items/1017158)
-</br>
-[sn item #1022674](https://stacker.news/items/1022674)
-[sn item #1034848](https://stacker.news/items/1034848)
-[sn item #1044917](https://stacker.news/items/1044917)
-</br>
-[sn item #1054334](https://stacker.news/items/1054334)
-[sn item #1072832](https://stacker.news/items/1072832)
-[sn item #1288156](https://stacker.news/items/1288156)
-</br>
-[sn item #1282852](https://stacker.news/items/1282852)
-[sn item #1276931](https://stacker.news/items/1276931)
-[sn item #1270902](https://stacker.news/items/1270902)
-<br/>
-[sn item #1264575](https://stacker.news/items/1264575)
-[sn item #1258277](https://stacker.news/items/1258277)
-[sn item #1253305](https://stacker.news/items/1253305)
-</br>
-[sn item #1238358](https://stacker.news/items/1238358)
-[sn item #1229071](https://stacker.news/items/1229071)
-[sn item #1219000](https://stacker.news/items/1219000)
-</br>
-[sn item #1208590](https://stacker.news/items/1208590)
-[sn item #1198687](https://stacker.news/items/1198687)
-[sn item #1090089](https://stacker.news/items/1090089)
-</br>
-[sn item #1081745](https://stacker.news/items/1081745)
+## EVERY FRIDAY A NEW DROP
+follow the zine by following me here or @plebpoet on stacker.news
+
 ## bio
 I'm [plebpoet](https://stacker.news/plebpoet) and I love [stacker.news](https://stacker.news)
 </br>And [zines are punk rock](https://stacker.news/items/922901)
